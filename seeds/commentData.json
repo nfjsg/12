@@ -1,1 +1,19 @@
+[
+  {
+    "text": "This is a great post! Thanks for sharing.",
+    "user_id": 1,
+    "post_id": 1
+  },
+  {
+    "text": "I learned a lot from this. Keep it up!",
+    "user_id": 2,
+    "post_id": 1
+  },
+  {
+    "text": "Looking forward to more posts from you.",
+    "user_id": 3,
+    "post_id": 2
+  },
+  // Add more comments as needed
+]
 
