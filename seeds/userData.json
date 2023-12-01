@@ -1,1 +1,19 @@
+[
+  {
+    "username": "techWriter1",
+    "password": "password123",
+    "email": "techwriter1@example.com"
+  },
+  {
+    "username": "codingEnthusiast",
+    "password": "securePass456",
+    "email": "codingenthusiast@example.com"
+  },
+  {
+    "username": "AIResearcher",
+    "password": "strongPassword789",
+    "email": "airesearcher@example.com"
+  },
+  // Add more users as needed
+]
 
