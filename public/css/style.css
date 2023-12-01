@@ -1,1 +1,79 @@
 
+/* General Styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Header Styles */
+header {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+/* Project Styles */
+.project:not(:last-child) {
+  border-bottom: 1px solid #ccc;
+}
+
+/* Button Styles */
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s, color 0.3s;
+  cursor: pointer;
+}
+
+.button-primary {
+  color: #ffffff;
+  background-color: #007bff;
+  border: 2px solid #007bff;
+}
+
+.button-primary:hover {
+  color: #ffffff;
+  background-color: #0056b3;
+  border: 2px solid #0056b3;
+}
+
+.button-secondary {
+  color: #333;
+  background-color: #ffffff;
+  border: 2px solid #333;
+}
+
+.button-secondary:hover {
+  color: #ffffff;
+  background-color: #333;
+  border: 2px solid #333;
+}
+
+/* Link Styles */
+.link {
+  color: #1b89bc;
+  text-decoration: none;
+  font-size: 100%;
+}
+
+.link:hover {
+  color: #065b83;
+  text-decoration: underline;
+}
+
+/* Dollar Amount Styles */
+.dollar-amount {
+  color: #056605;
+  font-weight: bold;
+  margin-left: -5px;
+}
