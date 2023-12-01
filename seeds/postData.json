@@ -1,1 +1,19 @@
 
+[
+  {
+    "title": "Introduction to Tech Blogging",
+    "content": "This is a blog post about the importance of tech blogging...",
+    "user_id": 1
+  },
+  {
+    "title": "Web Development Trends in 2023",
+    "content": "Exploring the latest trends in web development for the year 2023...",
+    "user_id": 2
+  },
+  {
+    "title": "The Future of Artificial Intelligence",
+    "content": "Discussing the potential impact of AI on various industries...",
+    "user_id": 3
+  },
+  // Add more posts as needed
+]
